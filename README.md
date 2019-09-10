@@ -1,1 +1,1 @@
-**This file is mandatory in all Holberton School projects**
+This is my first try with git
