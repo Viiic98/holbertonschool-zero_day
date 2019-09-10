@@ -1,1 +1,1 @@
-This is the js session
+This is the js files
